@@ -1,0 +1,53 @@
+﻿
+body {
+    background-color: #e3e4e6;
+    color: white;
+    padding: 40px;
+    font-size: 14px;
+    font-family: Arial;
+}
+
+form {
+    background-color: white;
+    color: black;
+    padding: 12px 30px;
+    width: 400px;
+    allign: center;
+    margin: 10px 20px;
+    font-family: 'Roboto
+}
+
+p {
+    font-size: 16px;
+    text-align: center;
+}
+
+a {
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+input[type=text] {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 2px 0;
+    border-color: #e3e4e6;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    background-color: #1d591e;
+    color: white;
+    font-size: 20px;
+}
+
+.bold {
+    font-weight: bold;
+}
